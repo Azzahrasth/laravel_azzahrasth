@@ -1,4 +1,4 @@
-# 🏥 Laravel CRUD Rumah Sakit & Pasien
+# 🏥 Sistem Admin Rumah Sakit & Pasien
 
 Project ini merupakan aplikasi CRUD sederhana berbasis **Laravel** yang mencakup fitur autentikasi login dan manajemen data **Rumah Sakit** serta **Pasien**.  
 Aplikasi ini dibuat sebagai latihan teknikal untuk mengimplementasikan **relasi antar tabel**, **AJAX delete**, dan **filter dinamis** menggunakan Laravel dan jQuery.
