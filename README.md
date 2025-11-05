@@ -9,7 +9,7 @@ Aplikasi ini dibuat sebagai latihan teknikal untuk mengimplementasikan **relasi 
 
 ### 🔐 Login
 - Login menggunakan **username**.
-- Setelah login, pengguna diarahkan ke halaman **dashboard **.
+- Setelah login, pengguna diarahkan ke halaman **dashboard**.
 
 ### 🏥 CRUD Data Rumah Sakit
 - Kolom: `ID`, `Nama Rumah Sakit`, `Alamat`, `Email`, `Telepon`
