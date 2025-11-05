@@ -34,8 +34,8 @@ Aplikasi ini dibuat sebagai latihan teknikal untuk mengimplementasikan **relasi 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/username/laravel_crud_rumahsakit.git
-cd laravel_crud_rumahsakit
+git clone https://github.com/azzahrasth/laravel_azzahrasth.git
+cd laravel_azzahrasth
 ```
 
 ### 2️⃣ Install Dependencies
@@ -53,7 +53,7 @@ php artisan key:generate
 
 Edit bagian:
 ```env
-DB_DATABASE=laravel_crud
+DB_DATABASE=db_rumah_sakit
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -78,7 +78,7 @@ http://127.0.0.1:8000/
 ## 🔑 Akun Login Default
 | Username | Password |
 |-----------|-----------|
-| admin     | admin123  |
+| admin     | password123  |
 
 ---
 
